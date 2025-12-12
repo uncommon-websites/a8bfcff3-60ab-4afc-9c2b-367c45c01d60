@@ -11,10 +11,10 @@
                 The solution
             </span>
             <h2 class="text-4xl md:text-5xl font-bold mb-6">
-                Meet Orbi — <span class="text-white/30">your<br/>lead-finding sidekick</span>
+                Meet RentReboot — <span class="text-white/30">your<br/>apartment-hunting assistant</span>
             </h2>
             <p class="text-gray-400 max-w-xl mx-auto">
-                Orbi scans the internet for new freelance opportunities and drops the best ones into a clean, searchable feed.
+                RentReboot aggregates rent-stabilized listings from every platform and sends you <span class="text-white">instant alerts</span> the moment they're posted.
             </p>
         </div>
 
@@ -25,22 +25,22 @@
             <div class="absolute top-10 left-0 md:left-10 w-72 glass-card-darker rounded-xl p-4 transform -rotate-6 z-10 border border-white/10">
                 <div class="flex items-center gap-2 mb-4">
                     <div class="w-6 h-6 rounded-full bg-[var(--color-primary)] flex items-center justify-center text-xs font-bold text-white">1</div>
-                    <span class="text-sm font-bold text-white">Orbi scans the web</span>
+                    <span class="text-sm font-bold text-white">Scans all platforms</span>
                 </div>
                 <div class="bg-[#111] rounded-lg p-3 space-y-2">
                     <div class="flex items-center gap-2 text-xs text-white mb-2">
-                        <Icon size={12} color="var(--color-primary)">{@html Sparkles}</Icon> Searching for leads
+                        <Icon size={12} color="var(--color-primary)">{@html Sparkles}</Icon> Searching for apartments
                     </div>
                     <div class="flex items-center gap-2 bg-white/5 p-2 rounded border border-white/5">
-                        <div class="w-6 h-6 bg-[#146EF5] rounded flex items-center justify-center text-[8px] font-bold">W</div>
+                        <div class="w-6 h-6 bg-[#0074e4] rounded flex items-center justify-center text-[8px] font-bold text-white">Z</div>
                         <div class="flex-1 h-2 bg-white/10 rounded"></div>
                     </div>
                     <div class="flex items-center gap-2 bg-white/5 p-2 rounded border border-white/5">
-                        <div class="w-6 h-6 bg-black rounded flex items-center justify-center text-[8px] font-bold">F</div>
+                        <div class="w-6 h-6 bg-[#E62739] rounded flex items-center justify-center text-[8px] font-bold text-white">S</div>
                         <div class="flex-1 h-2 bg-white/10 rounded"></div>
                     </div>
                     <div class="flex items-center gap-2 bg-white/5 p-2 rounded border border-white/5">
-                        <div class="w-6 h-6 bg-orange-500 rounded flex items-center justify-center text-[8px] font-bold">L</div>
+                        <div class="w-6 h-6 bg-[#FF4500] rounded flex items-center justify-center text-[8px] font-bold text-white">R</div>
                         <div class="flex-1 h-2 bg-white/10 rounded"></div>
                     </div>
                 </div>
@@ -56,56 +56,56 @@
             <div class="absolute bottom-0 left-1/2 transform -translate-x-1/2 z-20">
                 <div class="flex items-center gap-2 bg-black/80 backdrop-blur border border-white/20 px-4 py-2 rounded-full shadow-2xl">
                     <div class="w-6 h-6 rounded-full bg-[var(--color-primary)] flex items-center justify-center text-xs font-bold text-white">2</div>
-                    <span class="text-sm font-bold text-white">Rates each lead for quality</span>
+                    <span class="text-sm font-bold text-white">Filters rent-stabilized only</span>
                 </div>
             </div>
 
             <!-- Step 3 Card (Right/Front) -->
             <div class="absolute top-0 right-0 md:right-10 w-80 glass-card-darker rounded-xl p-4 transform rotate-3 z-30 border border-white/10 shadow-2xl">
                 <div class="flex items-center gap-2 mb-4 justify-end">
-                    <span class="text-sm font-bold text-white">Adds it to your feed</span>
+                    <span class="text-sm font-bold text-white">Instant alerts to you</span>
                     <div class="w-6 h-6 rounded-full bg-[var(--color-primary)] flex items-center justify-center text-xs font-bold text-white">3</div>
                 </div>
                 
                 <div class="bg-[#111] rounded-lg p-3 space-y-2">
                     <div class="flex justify-between items-center mb-2">
-                         <span class="text-xs font-bold text-white"><span class="text-[var(--color-primary)]">34</span> leads found today</span>
+                         <span class="text-xs font-bold text-white"><span class="text-[var(--color-primary)]">12</span> apartments found today</span>
                     </div>
                     
-                    <!-- Lead Item -->
+                    <!-- Listing Item -->
                     <div class="bg-white/5 p-2 rounded border border-white/5 flex justify-between items-center">
                         <div class="flex items-center gap-2">
-                            <div class="w-8 h-8 bg-[#146EF5] rounded flex items-center justify-center text-white text-xs font-bold">W</div>
+                            <div class="w-8 h-8 bg-[var(--color-primary)]/20 rounded flex items-center justify-center text-[var(--color-primary)] text-xs font-bold border border-[var(--color-primary)]/30">🏠</div>
                             <div>
                                 <div class="w-20 h-2 bg-white/20 rounded mb-1"></div>
                                 <div class="w-12 h-1.5 bg-white/10 rounded"></div>
                             </div>
                         </div>
-                        <div class="bg-green-500/20 text-green-400 text-[8px] font-bold px-1.5 py-0.5 rounded">95% ↑</div>
+                        <div class="bg-[var(--color-primary)]/20 text-[var(--color-primary)] text-[8px] font-bold px-1.5 py-0.5 rounded">NEW</div>
                     </div>
 
-                    <!-- Lead Item -->
+                    <!-- Listing Item -->
                     <div class="bg-white/5 p-2 rounded border border-white/5 flex justify-between items-center">
                         <div class="flex items-center gap-2">
-                            <div class="w-8 h-8 bg-orange-500 rounded flex items-center justify-center text-white text-xs font-bold">L</div>
+                            <div class="w-8 h-8 bg-[var(--color-primary)]/20 rounded flex items-center justify-center text-[var(--color-primary)] text-xs font-bold border border-[var(--color-primary)]/30">🏠</div>
                             <div>
                                 <div class="w-16 h-2 bg-white/20 rounded mb-1"></div>
                                 <div class="w-24 h-1.5 bg-white/10 rounded"></div>
                             </div>
                         </div>
-                        <div class="bg-green-500/20 text-green-400 text-[8px] font-bold px-1.5 py-0.5 rounded">92% ↑</div>
+                        <div class="bg-[var(--color-primary)]/20 text-[var(--color-primary)] text-[8px] font-bold px-1.5 py-0.5 rounded">NEW</div>
                     </div>
 
-                    <!-- Lead Item -->
+                    <!-- Listing Item -->
                     <div class="bg-white/5 p-2 rounded border border-white/5 flex justify-between items-center opacity-50">
                         <div class="flex items-center gap-2">
-                            <div class="w-8 h-8 bg-gray-700 rounded flex items-center justify-center text-white text-xs font-bold">S</div>
+                            <div class="w-8 h-8 bg-[var(--color-primary)]/20 rounded flex items-center justify-center text-[var(--color-primary)] text-xs font-bold border border-[var(--color-primary)]/30">🏠</div>
                             <div>
                                 <div class="w-20 h-2 bg-white/20 rounded mb-1"></div>
                                 <div class="w-10 h-1.5 bg-white/10 rounded"></div>
                             </div>
                         </div>
-                         <div class="bg-green-500/20 text-green-400 text-[8px] font-bold px-1.5 py-0.5 rounded">86% ↑</div>
+                         <div class="bg-white/10 text-gray-400 text-[8px] font-bold px-1.5 py-0.5 rounded">15m</div>
                     </div>
                 </div>
             </div>

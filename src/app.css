@@ -14,8 +14,8 @@
 	--color-gray-900: #111827;
 	--color-gray-950: #030712;
 
-	--color-primary: #FF5533;
-	--color-primary-hover: #ff6b4d;
+	--color-primary: oklch(0.696 0.17 162.48);
+	--color-primary-hover: oklch(0.765 0.177 163.223);
 
 	--font-sans: "Inter", sans-serif;
 	--font-hand: "Caveat", cursive;

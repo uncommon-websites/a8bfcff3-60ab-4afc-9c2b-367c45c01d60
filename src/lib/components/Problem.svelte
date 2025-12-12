@@ -10,10 +10,10 @@
                 The problem
             </span>
             <h2 class="text-4xl md:text-5xl font-bold mb-6">
-                Being great <span class="text-white/30">at what<br/>you do</span> isn't enough
+                Finding affordable housing <span class="text-white/30">in NYC<br/>is broken</span>
             </h2>
             <p class="text-gray-400 max-w-xl mx-auto">
-                You're not alone. <span class="text-white">66% of freelancers</span> say lead generation is their #1 problem.
+                Rent-stabilized apartments are <span class="text-white">gone within hours</span>. By the time you see them, it's too late.
             </p>
         </div>
 
@@ -30,9 +30,9 @@
                     </div>
                 </div>
                 <div class="p-8 md:p-12">
-                    <h3 class="text-xl font-bold text-white mb-3">Leads are scattered</h3>
+                    <h3 class="text-xl font-bold text-white mb-3">Listings are scattered everywhere</h3>
                     <p class="text-gray-400 leading-relaxed">
-                        Twitter threads, job boards, Reddit posts, funding databases — you're wasting hours just <span class="text-white">finding</span> potential gigs.
+                        StreetEasy, Zillow, Craigslist, Reddit, Facebook groups — you're wasting hours just <span class="text-white">checking</span> every platform.
                     </p>
                 </div>
             </div>
@@ -51,9 +51,9 @@
                     <div class="w-3 h-14 bg-white/10 rounded-t-sm"></div>
                 </div>
                 <div class="p-8 md:p-12">
-                    <h3 class="text-xl font-bold text-white mb-3">It's inconsistent</h3>
+                    <h3 class="text-xl font-bold text-white mb-3">Good deals disappear instantly</h3>
                     <p class="text-gray-400 leading-relaxed">
-                        One month you're overloaded. The next, you're refreshing your inbox wondering where everyone went.
+                        Rent-stabilized apartments get <span class="text-white">hundreds of applications</span> within hours. Miss the alert, miss the apartment.
                     </p>
                 </div>
             </div>
@@ -70,9 +70,9 @@
                     <div class="absolute left-16 w-1.5 h-32 bg-[var(--color-primary)] rounded-full"></div>
                 </div>
                 <div class="p-8 md:p-12">
-                    <h3 class="text-xl font-bold text-white mb-3">It kills your creative momentum</h3>
+                    <h3 class="text-xl font-bold text-white mb-3">Manual searching is exhausting</h3>
                     <p class="text-gray-400 leading-relaxed">
-                        Just when you get in the flow, the outreach grind drags you back.
+                        Constantly refreshing pages, setting up alerts on 10 different sites, and <span class="text-white">still missing</span> the best listings.
                     </p>
                 </div>
             </div>
